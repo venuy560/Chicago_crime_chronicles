@@ -73,8 +73,6 @@ The project uses the **Chicago Crime dataset**, which includes historical report
 - Trend of reported crimes over time  
 - Visual insights using Matplotlib  
 
-*(Insert example plots or screenshots here)*
-
 ---
 
 ## 📜 License
