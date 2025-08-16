@@ -1,1 +1,8 @@
+## 📂 Data
+The project uses the **Chicago Crime dataset**, which includes historical reports of crimes in Chicago.  
+🔹 Download the dataset from [Chicago Data Portal](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2).  
+
+- Place the dataset inside the `/data/` folder before running the notebook.  
+- If you don’t have the full dataset, you can use a smaller sample file for testing.  
+- For very large files, you may use Google Drive integration in Colab instead.  
 
