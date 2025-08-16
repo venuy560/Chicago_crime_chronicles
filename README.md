@@ -30,9 +30,7 @@ Chicago_Crime_Chronicles/
 │── requirements.txt                  # Dependencies
 │── LICENSE                           # License (MIT)
 │── .gitignore                        # Ignored files
-│── data/                             # Dataset folder (not included)
-│── scripts/                          # (Optional) helper functions
-│── docs/                             # (Optional) extended docs
+│── data/                             # Dataset (not included)
 ```
 
 ---
@@ -41,7 +39,7 @@ Chicago_Crime_Chronicles/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/Chicago_Crime_Chronicles.git
+   git clone https://github.com/venuy560/Chicago_crime_chronicles.git
    cd Chicago_Crime_Chronicles
    ```
 
