@@ -54,7 +54,8 @@ Chicago_Crime_Chronicles/
    ```
 
 Or run it directly in Colab:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/Chicago_Crime_Chronicles/blob/main/Chicago_Crime_Chronicles.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/venuy560/Chicago_crime_chronicles/blob/main/Chicago_Crime_Chronicles.ipynb)
+
 
 ---
 
